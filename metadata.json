@@ -1,0 +1,6 @@
+{
+  "name": "Tabu AI",
+  "description": "Interactive animated anime companion and JARVIS phone assistant with voice calling, phone task automation, and daily mood journal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
